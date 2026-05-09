@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs (optional - 注释掉以包含日志)
+# autonomous_ai_log.json
+# latest_notification.md
+# latest_email.html
+
+# Generated files (optional - 注释掉以包含生成文件)
+# ai_outputs/
