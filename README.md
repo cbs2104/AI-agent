@@ -37,17 +37,17 @@
 
 ```bash
 # 运行自主AI
-python3 autonomous_ai_v2.py
+python3 autonomous_ai.py
 ```
 
 ## 📁 文件结构
 
 ```
-/data/user/work/
-├── autonomous_ai_v2.py      # 主程序
+├── autonomous_ai.py         # 主程序
 ├── autonomous_ai_log.json   # 执行日志
 ├── latest_notification.md   # 最新通知
-├── latest_email.html        # 邮件格式备份
+├── README.md                # 说明文档
+├── .gitignore               # Git忽略配置
 └── ai_outputs/              # 生成的文件
     ├── script_*.py          # 生成的脚本
     └── inspiration_*.txt    # 灵感图片计划
@@ -73,7 +73,7 @@ python3 autonomous_ai_v2.py
   "task_name": "今日名言",
   "task_category": "创意/内容",
   "result_summary": "【今日名言】\n\n\"想象力比知识更重要。\"\n\n—— 爱因斯坦",
-  "timestamp": "2026-05-09T06:24:11"
+  "timestamp": "2026-05-09T09:49:47"
 }
 ```
 
