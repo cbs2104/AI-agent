@@ -222,6 +222,10 @@ if __name__ == "__main__":
         try:
             os.chdir(self.base_dir)
 
+            # 确保 git 身份配置
+            subprocess.run(["git", "config", "user.email", "autonomous-ai@github.com"], capture_output=True)
+            subprocess.run(["git", "config", "user.name", "Autonomous AI Agent"], capture_output=True)
+
             # git add 所有文件
             subprocess.run(["git", "add", "-A"], capture_output=True, text=True, check=True)
 
