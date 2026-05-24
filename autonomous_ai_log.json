@@ -238,5 +238,11 @@
     "task_category": "创意/内容",
     "result_summary": "【微型故事】\n\n最后一班地铁上，他遇见了二十年前的自己。\n\n—— 有时候，最短的句子承载最长的想象。",
     "timestamp": "2026-05-24T06:04:01.619491"
+  },
+  {
+    "task_name": "实用脚本生成",
+    "task_category": "实用/工具",
+    "result_summary": "【实用工具已生成】\n\n脚本名称：ai_outputs/script_20260524_110031.py\n功能：文件整理工具",
+    "timestamp": "2026-05-24T11:00:31.444776"
   }
 ]
