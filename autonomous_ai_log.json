@@ -724,5 +724,11 @@
     "task_category": "创意/内容",
     "result_summary": "【创意任务完成】\n\n已为你规划灵感图片：星空下的城市\n文件：ai_outputs/inspiration_20260623_061549.txt",
     "timestamp": "2026-06-23T06:15:49.412999"
+  },
+  {
+    "task_name": "生活小贴士",
+    "task_category": "实用/工具",
+    "result_summary": "【生活小贴士】\n\n💡 每天喝够8杯水，保持身体水分充足",
+    "timestamp": "2026-06-23T11:02:55.839563"
   }
 ]
